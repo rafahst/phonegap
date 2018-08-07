@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="rafah.org.br"
+        version="1.0.0">
+
+    <name>
+        Aplicativo de Busca de Cep
+    </name>
+
+    <description>
+        Esse aplicativo serve para buscar ceps
+    </description>
+    
+    <author href="rafah.org.br" email="rafag@rafah.com">
+        rafah teixeira
+    </author>
+
+    <icon src="icon.png" />
+
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <platform name="android" />
+
+</widget>
+
+
+
+
+
+
